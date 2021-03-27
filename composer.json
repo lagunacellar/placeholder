@@ -1,0 +1,11 @@
+{
+    "name": "lagunacellar/placeholder",
+    "description": "eCommerce Platform for Growth",
+    "type": "project",
+    "version": "1.0.0",
+    "license": "OSL-3.0",
+    "require": {
+        "php": "~7.3.0||~7.4.0",
+        "composer/composer": "^1.9 || ^2.0"
+    }
+}
